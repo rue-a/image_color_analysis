@@ -21,8 +21,8 @@ import click
 @click.option("--dist-thresh", default=1.9, help="Distance threshold")
 @click.option("--min-neighbors", default=4, help="Minimum neighbors")
 @click.option("--draw-hull", default=True, help="draw hull")
-@click.option("--point-size", default=1, help="size of points")
-@click.option("--jitter", default=1, help="max jitter dist")
+@click.option("--point-size", default=1.0, help="size of points")
+@click.option("--jitter", default=1.0, help="max jitter dist")
 @click.option("--transparency", default=0.3, help="transparency of points")
 def plot_lab_ab_hull_cli(
     output_file,

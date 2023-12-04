@@ -7,9 +7,11 @@ Core files are the CLIs `get_color_hull.py` and `plot_color_hull.py`. The first 
 
 __Examples:__
 
-`python get_color_hull.py data/original/df_dk_0010001_1725.tif --scale-factor 0.1`
+`python get_color_hull.py <img_name>.tif --scale-factor 0.1`
 
-`python plot_color_hull.py /home/service/sda3/alte_karten/data/original/28_6404_4_fbg.jpg --scale-factor 0.2 --jitter 0.5 --point-size 2 --draw-hull false`
+`python plot_color_hull.py <img_name>.jpg --scale-factor 0.2 --jitter 0.5 --point-size 2 --draw-hull false -O example.png`
+
+![ex](example.png)
 
 | __Directory/File__ | __Description__ |
 |-|-|
