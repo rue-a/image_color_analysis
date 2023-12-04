@@ -9,7 +9,9 @@ __Examples:__
 
 `python get_color_hull.py <img_name>.tif --scale-factor 0.1`
 
-`python plot_color_hull.py <img_name>.jpg --scale-factor 0.2 --jitter 0.5 --point-size 2 --draw-hull false -O example.png`
+`python plot_color_hull.py <img_name>.jpg --scale-factor 0.2 --jitter 0.5 --point-size 2 --draw-hull false -O <out_name>.png`
+
+![ex_in](example_in.png)
 
 ![ex](example.png)
 
