@@ -1,0 +1,5 @@
+70 min orig size
+
+
+sample down to 25 %: 2 min
+4 min on downsampled

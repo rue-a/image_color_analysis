@@ -1,0 +1,840 @@
+{'28_6404_4_fbg.jpg': {'path': 'data/original/28_6404_4_fbg.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.07777777777777778,
+                0.1388888888888889,
+                0.19444444444444445,
+                0.23333333333333334,
+                0.2833333333333333,
+                0.3111111111111111
+            ],
+   'found_peaks_colors': ['Red',
+    'Yellow',
+    'Green',
+    'Green',
+    'Green',
+    'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 208.82066015816451
+        }
+    },
+ '28_6506_4_fbg.jpg': {'path': 'data/original/28_6506_4_fbg.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.08333333333333333,
+                0.1111111111111111,
+                0.19444444444444445,
+                0.26666666666666666,
+                0.3111111111111111
+            ],
+   'found_peaks_colors': ['Orange', 'Orange', 'Green', 'Green', 'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 284.7323349127775
+        }
+    },
+ '28_6605_D.jpg': {'path': 'data/original/28_6605_D.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.07222222222222222,
+                0.3
+            ],
+   'found_peaks_colors': ['Red', 'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 265.0810623215886
+        }
+    },
+ '28_6607_D.jpg': {'path': 'data/original/28_6607_D.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.07222222222222222,
+                0.16666666666666666,
+                0.19444444444444445,
+                0.28888888888888886
+            ],
+   'found_peaks_colors': ['Red', 'Yellow', 'Green', 'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 301.2176332313913
+        }
+    },
+ '28_6608_D.jpg': {'path': 'data/original/28_6608_D.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.03333333333333333,
+                0.07222222222222222,
+                0.13333333333333333,
+                0.19444444444444445,
+                0.29444444444444445,
+                0.40555555555555556
+            ],
+   'found_peaks_colors': ['Red', 'Red', 'Orange', 'Green', 'Green', 'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 313.3076825037698
+        }
+    },
+ '28_6609_D.jpg': {'path': 'data/original/28_6609_D.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.03333333333333333,
+                0.07222222222222222,
+                0.13333333333333333,
+                0.16666666666666666,
+                0.19444444444444445,
+                0.23333333333333334,
+                0.3
+            ],
+   'found_peaks_colors': ['Red',
+    'Red',
+    'Orange',
+    'Yellow',
+    'Green',
+    'Green',
+    'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 268.49076610922964
+        }
+    },
+ '29_6508_4_fbg.jpg': {'path': 'data/original/29_6508_4_fbg.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.027777777777777776,
+                0.1111111111111111,
+                0.3055555555555556,
+                0.6111111111111112,
+                0.6666666666666666,
+                0.7,
+                0.7333333333333333,
+                0.7777777777777778,
+                0.8666666666666667,
+                0.9166666666666666,
+                0.9555555555555556
+            ],
+   'found_peaks_colors': ['Red',
+    'Orange',
+    'Green',
+    'Blue',
+    'Blue',
+    'Violet',
+    'Violet',
+    'Violet',
+    'Violet',
+    'Violet',
+    'Red'
+            ]
+        },
+  'lab_analysis': {'hull_area': 294.8857316414797
+        }
+    },
+ '29_6610_D.jpg': {'path': 'data/original/29_6610_D.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.08333333333333333,
+                0.12777777777777777,
+                0.16666666666666666,
+                0.2833333333333333,
+                0.3111111111111111
+            ],
+   'found_peaks_colors': ['Orange', 'Orange', 'Yellow', 'Green', 'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 311.94979849214167
+        }
+    },
+ '29_6705_SuGmbl.jpg': {'path': 'data/original/29_6705_SuGmbl.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.03333333333333333,
+                0.07222222222222222,
+                0.11666666666666667,
+                0.2,
+                0.2833333333333333
+            ],
+   'found_peaks_colors': ['Red', 'Red', 'Orange', 'Green', 'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 413.6589314992077
+        }
+    },
+ '29_6707_D.jpg': {'path': 'data/original/29_6707_D.jpg',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.07222222222222222,
+                0.13333333333333333,
+                0.19444444444444445,
+                0.3,
+                0.9444444444444444
+            ],
+   'found_peaks_colors': ['Red', 'Orange', 'Green', 'Green', 'Red'
+            ]
+        },
+  'lab_analysis': {'hull_area': 331.5882153963902
+        }
+    },
+ 'BayHStA_OBB_12856_0001.tif': {'path': 'data/original/BayHStA_OBB_12856_0001.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.12777777777777777,
+                0.25,
+                0.3333333333333333
+            ],
+   'found_peaks_colors': ['Orange', 'Green', 'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 391.49953581035265
+        }
+    },
+ 'BayHStA_OBB_KuPl_6811_0013.tif': {'path': 'data/original/BayHStA_OBB_KuPl_6811_0013.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.1111111111111111,
+                0.16666666666666666,
+                0.25
+            ],
+   'found_peaks_colors': ['Orange', 'Yellow', 'Green'
+            ]
+        },
+  'lab_analysis': {'hull_area': 251.96365496400233
+        }
+    },
+ 'df_dk_0010001_1725.tif': {'path': 'data/original/df_dk_0010001_1725.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.08333333333333333,
+                0.6333333333333333,
+                0.6611111111111111
+            ],
+   'found_peaks_colors': ['Orange', 'Blue', 'Blue'
+            ]
+        },
+  'lab_analysis': {'hull_area': 132.80083417988027
+        }
+    },
+ 'df_dk_0010001_2343.tif': {'path': 'data/original/df_dk_0010001_2343.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.12222222222222222
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 56.43561954298352
+        }
+    },
+ 'df_dk_0010001_4643_1938.tif': {'path': 'data/original/df_dk_0010001_4643_1938.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.1388888888888889
+            ],
+   'found_peaks_colors': ['Yellow'
+            ]
+        },
+  'lab_analysis': {'hull_area': 142.73354182131453
+        }
+    },
+ 'df_dk_0010001_4902_1934.tif': {'path': 'data/original/df_dk_0010001_4902_1934.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.14444444444444443
+            ],
+   'found_peaks_colors': ['Yellow'
+            ]
+        },
+  'lab_analysis': {'hull_area': 121.25126701954134
+        }
+    },
+ 'df_dk_0010001_6714.tif': {'path': 'data/original/df_dk_0010001_6714.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.13333333333333333
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 130.11463748734386
+        }
+    },
+ 'Landesvermessungsamt-Flurkartenarchiv_0002.tif': {'path': 'data/original/Landesvermessungsamt-Flurkartenarchiv_0002.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.10555555555555556
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 161.7478523896795
+        }
+    },
+ 'Landesvermessungsamt-Flurkartenarchiv_0003.tif': {'path': 'data/original/Landesvermessungsamt-Flurkartenarchiv_0003.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.10555555555555556
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 147.34273711918334
+        }
+    },
+ 'M-32-10-A-a-Vienenburg-1984.bmp': {'path': 'data/original/M-32-10-A-a-Vienenburg-1984.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.05,
+                0.16666666666666666,
+                0.24444444444444444,
+                0.5
+            ],
+   'found_peaks_colors': ['Red', 'Yellow', 'Green', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 399.11036205345437
+        }
+    },
+ 'M-32-10-A-b-Osterwieck-1985.bmp': {'path': 'data/original/M-32-10-A-b-Osterwieck-1985.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.05,
+                0.16666666666666666,
+                0.24444444444444444,
+                0.5
+            ],
+   'found_peaks_colors': ['Red', 'Yellow', 'Green', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 395.4217883370607
+        }
+    },
+ 'M-32-10-A-c-Bad_Harzburg-1984.bmp': {'path': 'data/original/M-32-10-A-c-Bad_Harzburg-1984.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.16666666666666666,
+                0.23333333333333334,
+                0.5
+            ],
+   'found_peaks_colors': ['Yellow', 'Green', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 379.9112852268531
+        }
+    },
+ 'M-32-10-A-d-Ilsenburg_(Harz)-1985.bmp': {'path': 'data/original/M-32-10-A-d-Ilsenburg_(Harz)-1985.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.16666666666666666,
+                0.23333333333333334,
+                0.5
+            ],
+   'found_peaks_colors': ['Yellow', 'Green', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 383.8214968202761
+        }
+    },
+ 'M-32-10-B-a-Dardesheim-1985.bmp': {'path': 'data/original/M-32-10-B-a-Dardesheim-1985.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.16666666666666666,
+                0.2388888888888889,
+                0.5
+            ],
+   'found_peaks_colors': ['Yellow', 'Green', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 373.33149851116167
+        }
+    },
+ 'M-32-10-B-b-Badersleben-1985.bmp': {'path': 'data/original/M-32-10-B-b-Badersleben-1985.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.16666666666666666,
+                0.25,
+                0.5
+            ],
+   'found_peaks_colors': ['Yellow', 'Green', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 363.2999851966167
+        }
+    },
+ 'M-32-10-B-c-Wernigerode-1985.bmp': {'path': 'data/original/M-32-10-B-c-Wernigerode-1985.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.16111111111111112,
+                0.5
+            ],
+   'found_peaks_colors': ['Yellow', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 385.72514309015247
+        }
+    },
+ 'M-32-10-B-d-Derenburg-1985.bmp': {'path': 'data/original/M-32-10-B-d-Derenburg-1985.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.16666666666666666,
+                0.2388888888888889,
+                0.5
+            ],
+   'found_peaks_colors': ['Yellow', 'Green', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 381.5564615669873
+        }
+    },
+ 'M-32-10-C-a-Brocken-1984.bmp': {'path': 'data/original/M-32-10-C-a-Brocken-1984.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.07222222222222222,
+                0.16666666666666666,
+                0.22777777777777777,
+                0.5
+            ],
+   'found_peaks_colors': ['Red', 'Yellow', 'Green', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 376.6448870257628
+        }
+    },
+ 'M-32-10-C-b-Schierke-1985.bmp': {'path': 'data/original/M-32-10-C-b-Schierke-1985.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.07222222222222222,
+                0.16666666666666666,
+                0.22777777777777777,
+                0.5
+            ],
+   'found_peaks_colors': ['Red', 'Yellow', 'Green', 'Turquoise'
+            ]
+        },
+  'lab_analysis': {'hull_area': 377.0131134419972
+        }
+    },
+ 'MA_Karten_und_Plaene_308_0001.tif': {'path': 'data/original/MA_Karten_und_Plaene_308_0001.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.08888888888888889
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 135.54718664427537
+        }
+    },
+ 'MA_Karten_und_Plaene_308_0003.tif': {'path': 'data/original/MA_Karten_und_Plaene_308_0003.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.09444444444444444,
+                0.5888888888888889
+            ],
+   'found_peaks_colors': ['Orange', 'Blue'
+            ]
+        },
+  'lab_analysis': {'hull_area': 106.3868086379405
+        }
+    },
+ 'MA_Karten_und_Plaene_315_0001.tif': {'path': 'data/original/MA_Karten_und_Plaene_315_0001.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.12222222222222222
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 100.79578378842969
+        }
+    },
+ 'MA_Karten_und_Plaene_315_0002.tif': {'path': 'data/original/MA_Karten_und_Plaene_315_0002.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 92.67167899299105
+        }
+    },
+ 'MA_Karten_und_Plaene_315_0003.tif': {'path': 'data/original/MA_Karten_und_Plaene_315_0003.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 103.3311229303684
+        }
+    },
+ 'MA_Karten_und_Plaene_315_0004.tif': {'path': 'data/original/MA_Karten_und_Plaene_315_0004.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.12222222222222222
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 86.31836031200001
+        }
+    },
+ 'MA_Karten_und_Plaene_318_0023.tif': {'path': 'data/original/MA_Karten_und_Plaene_318_0023.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 68.37888058366516
+        }
+    },
+ 'MA_Karten_und_Plaene_318_0024.tif': {'path': 'data/original/MA_Karten_und_Plaene_318_0024.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 79.64654026348192
+        }
+    },
+ 'MA_Karten_und_Plaene_318_0025.tif': {'path': 'data/original/MA_Karten_und_Plaene_318_0025.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.12222222222222222
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 70.58210467716448
+        }
+    },
+ 'MA_Karten_und_Plaene_318_0026.tif': {'path': 'data/original/MA_Karten_und_Plaene_318_0026.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 65.67244736664901
+        }
+    },
+ 'MA_Karten_und_Plaene_318_0027.tif': {'path': 'data/original/MA_Karten_und_Plaene_318_0027.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 68.65490155906977
+        }
+    },
+ 'MA_Karten_und_Plaene_318_0028.tif': {'path': 'data/original/MA_Karten_und_Plaene_318_0028.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 75.24353378530053
+        }
+    },
+ 'MA_Karten_und_Plaene_318_0029.tif': {'path': 'data/original/MA_Karten_und_Plaene_318_0029.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 70.9174102298033
+        }
+    },
+ 'MA_Karten_und_Plaene_393_0001.tif': {'path': 'data/original/MA_Karten_und_Plaene_393_0001.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 120.65834750340764
+        }
+    },
+ 'MA_Karten_und_Plaene_393_0002.tif': {'path': 'data/original/MA_Karten_und_Plaene_393_0002.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.1111111111111111
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 166.10972329456993
+        }
+    },
+ 'MA_Karten_und_Plaene_393_0003.tif': {'path': 'data/original/MA_Karten_und_Plaene_393_0003.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.1
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 106.31920923500039
+        }
+    },
+ 'MA_Karten_und_Plaene_394_0001.tif': {'path': 'data/original/MA_Karten_und_Plaene_394_0001.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 135.02002940775571
+        }
+    },
+ 'MA_Karten_und_Plaene_394_0002.tif': {'path': 'data/original/MA_Karten_und_Plaene_394_0002.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.1111111111111111
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 159.13645144860885
+        }
+    },
+ 'MF_KuPL_332_2_0001.tif': {'path': 'data/original/MF_KuPL_332_2_0001.tif',
+  'color_coded': False,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.13333333333333333
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 101.61808050912127
+        }
+    },
+ 'MF_KuPL_380_0001.tif': {'path': 'data/original/MF_KuPL_380_0001.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.11666666666666667,
+                0.9833333333333333
+            ],
+   'found_peaks_colors': ['Orange', 'Red'
+            ]
+        },
+  'lab_analysis': {'hull_area': 183.2140246229781
+        }
+    },
+ 'N-32-72-D-a-Ostseebad_Kuehlungsborn-1989.bmp': {'path': 'data/original/N-32-72-D-a-Ostseebad_Kuehlungsborn-1989.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.21666666666666667,
+                0.5,
+                0.6111111111111112,
+                0.8333333333333334
+            ],
+   'found_peaks_colors': ['Green', 'Turquoise', 'Blue', 'Violet'
+            ]
+        },
+  'lab_analysis': {'hull_area': 384.67692921587724
+        }
+    },
+ 'N-32-72-D-b-Bad_Doberan-1989.bmp': {'path': 'data/original/N-32-72-D-b-Bad_Doberan-1989.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.21666666666666667,
+                0.5,
+                0.6111111111111112,
+                0.8333333333333334
+            ],
+   'found_peaks_colors': ['Green', 'Turquoise', 'Blue', 'Violet'
+            ]
+        },
+  'lab_analysis': {'hull_area': 381.1251385692132
+        }
+    },
+ 'N-32-82-A-b-Bad_Schwartau-1984.bmp': {'path': 'data/original/N-32-82-A-b-Bad_Schwartau-1984.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.5,
+                0.8333333333333334
+            ],
+   'found_peaks_colors': ['Turquoise', 'Violet'
+            ]
+        },
+  'lab_analysis': {'hull_area': 379.6259062844594
+        }
+    },
+ 'N-32-82-D-c-Ratzeburg-1990.bmp': {'path': 'data/original/N-32-82-D-c-Ratzeburg-1990.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.21666666666666667,
+                0.5,
+                0.6111111111111112,
+                0.8333333333333334
+            ],
+   'found_peaks_colors': ['Green', 'Turquoise', 'Blue', 'Violet'
+            ]
+        },
+  'lab_analysis': {'hull_area': 381.0059223717924
+        }
+    },
+ 'N-32-83-B-d-Wismar-1990.bmp': {'path': 'data/original/N-32-83-B-d-Wismar-1990.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.21666666666666667,
+                0.5,
+                0.6111111111111112,
+                0.8333333333333334
+            ],
+   'found_peaks_colors': ['Green', 'Turquoise', 'Blue', 'Violet'
+            ]
+        },
+  'lab_analysis': {'hull_area': 384.0556412036514
+        }
+    },
+ 'N-32-94-D-b-Bennin-1989.bmp': {'path': 'data/original/N-32-94-D-b-Bennin-1989.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.2222222222222222,
+                0.5,
+                0.8333333333333334
+            ],
+   'found_peaks_colors': ['Green', 'Turquoise', 'Violet'
+            ]
+        },
+  'lab_analysis': {'hull_area': 382.89153547834337
+        }
+    },
+ 'N-32-95-A-d-Duemmer-1990.bmp': {'path': 'data/original/N-32-95-A-d-Duemmer-1990.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.2222222222222222,
+                0.5,
+                0.6111111111111112,
+                0.8333333333333334
+            ],
+   'found_peaks_colors': ['Green', 'Turquoise', 'Blue', 'Violet'
+            ]
+        },
+  'lab_analysis': {'hull_area': 384.6880683697859
+        }
+    },
+ 'N-32-95-B-b-Schwerin-1990.bmp': {'path': 'data/original/N-32-95-B-b-Schwerin-1990.bmp',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': True,
+   'found_peaks': [
+                0.21666666666666667,
+                0.5,
+                0.6111111111111112,
+                0.8333333333333334
+            ],
+   'found_peaks_colors': ['Green', 'Turquoise', 'Blue', 'Violet'
+            ]
+        },
+  'lab_analysis': {'hull_area': 381.7804612548331
+        }
+    },
+ 'Pls_8540_0008.tif': {'path': 'data/original/Pls_8540_0008.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.10555555555555556
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 236.9224354371051
+        }
+    },
+ 'Pls_8540_0014.tif': {'path': 'data/original/Pls_8540_0014.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.1111111111111111
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 240.69454429114506
+        }
+    },
+ 'PLS_9771_01.tif': {'path': 'data/original/PLS_9771_01.tif',
+  'color_coded': True,
+  'hue_analysis': {'color_coded': False,
+   'found_peaks': [
+                0.10555555555555556
+            ],
+   'found_peaks_colors': ['Orange'
+            ]
+        },
+  'lab_analysis': {'hull_area': 300.0482674784933
+        }
+    }
+}

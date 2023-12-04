@@ -1,0 +1,1 @@
+for file in data/original/*; do output_file="data/downsampled/$(basename "$file")"; convert "$file" -resize 25% "$output_file"; done
