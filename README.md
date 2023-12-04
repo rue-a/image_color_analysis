@@ -1,4 +1,4 @@
-This repository contains scripts and outputs related to analyzing an image's color information.
+This repository contains scripts and outputs related to analyzing an image's color information. It was created in the context of a Hackathon (see below). The task was to differentiate between colorized and non-colorized color scans. The argument was that color scans of non-colorized images take significantly less space in the a*-b*-plane of the CIELab color space.
 
 
 ## Directory/File Description
