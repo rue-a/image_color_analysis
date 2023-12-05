@@ -1,0 +1,6 @@
+
+click==8.1.7
+matplotlib==3.8.1
+numpy==1.26.1
+opencv-python==4.8.1.78
+scipy==1.11.3

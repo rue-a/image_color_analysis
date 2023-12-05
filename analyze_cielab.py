@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 import json
-from scipy.ndimage import median_filter
 from scipy.spatial import ConvexHull
 from scipy.spatial.distance import cdist
 
