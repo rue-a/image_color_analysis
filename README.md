@@ -35,7 +35,7 @@ __Examples:__
 
 __Dataxplorers Hackathon:__ Hackathon on Collaborative Solutions in Earth System, Biodiversity and Microbiota Research
 
-### Challange 2: Inspection of color information in scanned raster maps - Team HuEL|O153
+### Challenge 2: Inspection of color information in scanned raster maps - Team HuEL|O153
 
 > __Challenge Provider:__
 > Anna Lisa Schwartz & Peter Valena,
