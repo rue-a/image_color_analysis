@@ -14,16 +14,21 @@ import click
 @click.option("--min-neighbors", default=4, help="Minimum neighbors")
 def get_lab_ab_hull_cli(path, scale_factor, l_min, l_max, dist_thresh, min_neighbors):
     """
-    This script processes an image at the given path and returns the convex hull of
-    the pixels in the a*-b* plane in the Lab color space.
+    This script processes an image at the given path and returns the area of the convex
+    hull of the points that result when mapping its color information in the a*-b* plane
+    in the Lab color space. The arguments l-min and l-max can be used to mask out pixels
+    below or above a certain Luminance value. dist_tresh and min_neighbors are used to
+    filter outliers in a*-b* plane (points in the a*-b* plane are distributed in a discret
+    raster).
 
     Args:
     path (str): Path to the image file.
-    scale_factor (float): Scale factor.
-    l_min (int): Minimum L value.
-    l_max (int): Maximum L value.
-    dist_thresh (float): Distance threshold.
-    min_neighbors (int): Minimum neighbors.
+    path (str): Path to the image file.
+    scale_factor (float): Scale factor of the input image, scaling down typically reduces color noise.
+    l_min (int): Minimum Luminance value for a pixel to be taken into account.
+    l_max (int): Maximum Luminance value for a pixel to be taken into account.
+    dist_thresh (float): Within wich distance threshold shall be searched for neighbors.
+    min_neighbors (int): Minimum neighbors that have to be found within threshold to keep point.
     """
     # Call the original function with provided arguments
     result = get_lab_ab_hull(
