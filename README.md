@@ -3,7 +3,7 @@ This repository contains scripts and outputs related to analyzing an image's col
 
 ## Directory/File Description
 
-Core files are the CLIs `get_color_hull.py` and `plot_color_hull.py`. The first calculates the convex hull around the points that result when mapping the pixels' color information into the a*-b* plane in the CIELab color space. The second CLI plots these points and colorizes them accordingly.
+Core files are the CLIs `get_color_hull.py` and `plot_color_hull.py`. The first calculates the convex hull around the points that result when mapping the pixels' color information into the a*-b* plane of the CIELab color space. The second CLI plots these points and colorizes them accordingly.
 
 __Examples:__
 
